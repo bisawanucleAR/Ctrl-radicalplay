@@ -1,1 +1,2 @@
-# Ctrl-radicalplay
+# Ctrl-play 
+(tarefas radicais)
